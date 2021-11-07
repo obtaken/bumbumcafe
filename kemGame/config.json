@@ -1,6 +1,6 @@
 {
-  "maintenance": false,
-  "message": "",
+  "maintenance": true,
+  "message": "Hệ thống đang bảo trì...",
   "bundle_url_web": "https://config.kem123.xyz/web.json",
   "bundle_url_native": "https://config.kem123.xyz/native.json"
 }
